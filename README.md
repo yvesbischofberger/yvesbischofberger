@@ -1,4 +1,5 @@
 Hi, my name is Yves Bischofberger and im currently studying Computer Science in the bachelor at ETH Zürich
+www.linkedin.com/in/yvesbischofberger
 
 Here I will (very irregularly) upload selected projects. There is nothing here yet, but there will be soon :). 
 
