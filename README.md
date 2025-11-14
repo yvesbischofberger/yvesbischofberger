@@ -1,4 +1,4 @@
-Hi, my name is Yves Bischofberger. I've previously studies Computer Science at ETH in my bachelor's.
+Hi, my name is Yves Bischofberger. I've taken graduate courses at Stanford, am working as a SWE at Google Zurich and previously studied Computer Science at ETH in my bachelor's.
 www.linkedin.com/in/yvesbischofberger
 
 Here I will (very irregularly) upload selected projects.
